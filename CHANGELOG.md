@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+- `b2b-warning-topbar-inactive-organization` block
 ## [3.0.0] - 2022-04-26
 
 ### Added
